@@ -39,6 +39,6 @@ int main()
     a = b;
     std::cout << "assigned b to a\n";
     a->hello();
-    b->hello();
+    
 
 }
